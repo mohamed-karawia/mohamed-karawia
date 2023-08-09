@@ -2,8 +2,7 @@
 
 <!--
 **mohamed-karawia/mohamed-karawia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
-I'm an innovative Front End Developer, Creative problem solver with 3 year of experience building and maintaining responsive websites. Proficient in HTML, CSS, JavaScript, React.js and Vue.js. plus modern UI libraries and frameworks such as Bootstrap and tailwind. i give a high importance to writing clean, readable and reusable code . 
-
+Innovative Front End Developer with over three years of experience. I craft dynamic, responsive, and user-focused web apps with a strong foundation in HTML, CSS, and JavaScript, complemented by modern libraries and frameworks.
 ## Contact me:
 
 m.karawia11@gmail.com
